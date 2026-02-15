@@ -1,0 +1,15 @@
+{
+  "target": "arousal",
+  "model_path": "results/central/arousal/model.pt",
+  "val_subjects": [
+    "subj_21",
+    "subj_22",
+    "subj_23"
+  ],
+  "all_subjects_count": 23,
+  "n_windows": 11130,
+  "loss": 0.44095317274332047,
+  "acc": 0.7811320754716982,
+  "f1": 0.855206847360913,
+  "auc": 0.8339645502156436
+}

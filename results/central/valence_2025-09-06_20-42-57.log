@@ -1,0 +1,2 @@
+[EVAL] valence | loss=0.5270 acc=0.7187 f1=0.7926 auc=0.7848
+[EVAL] wrote: results/central/valence/metrics.csv, results/central/valence/roc.png, results/central/valence/confusion_matrix.png, results/central/valence/report.json

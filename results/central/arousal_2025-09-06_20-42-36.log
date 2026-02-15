@@ -1,0 +1,2 @@
+[EVAL] arousal | loss=0.4568 acc=0.7698 f1=0.8468 auc=0.8155
+[EVAL] wrote: results/central/arousal/metrics.csv, results/central/arousal/roc.png, results/central/arousal/confusion_matrix.png, results/central/arousal/report.json

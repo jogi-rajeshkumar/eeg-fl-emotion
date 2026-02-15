@@ -1,0 +1,15 @@
+{
+  "target": "valence",
+  "model_path": "results/central/valence/model.pt",
+  "val_subjects": [
+    "subj_21",
+    "subj_22",
+    "subj_23"
+  ],
+  "all_subjects_count": 23,
+  "n_windows": 11130,
+  "loss": 0.5472511677918109,
+  "acc": 0.7118598382749326,
+  "f1": 0.7844033613445378,
+  "auc": 0.7662495988693236
+}
